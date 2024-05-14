@@ -13,3 +13,7 @@ npx playwright install
 Inserir "scripts": {
     "test": "node teste_google.js"
 }
+
+
+Autoit -> Automação Windows
+Baixe o Self Extracting
